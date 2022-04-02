@@ -21,6 +21,6 @@ c-cpp [![Build CI - Linux](https://github.com/GuptaJuluri22/M1_General_Store_Bil
 
 [![CodeQuality-Valgrind](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Valgrind.yml)
 
-[![Analysis](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml)
+[![Git Inspector](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/gitinsepector.yml)
 
 
