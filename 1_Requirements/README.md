@@ -1,10 +1,33 @@
 # Requirements
 
-![Google](https://www.google.com/search?q=general+store+images+bill&rlz=1C1CHBF_enIN997IN998&sxsrf=APq-WBt82-jqFQrVcZOgoULZRshdI5Pw9A:1648873553429&tbm=isch&source=iu&ictx=1&vet=1&fir=SSk0EHSbpRutuM%252CTPMGgQ7OaoIvPM%252C_%253BZqZfY2g3sxfj5M%252C5gqM1FOzamlSBM%252C_%253BlkponZhz4qiFDM%252C5gqM1FOzamlSBM%252C_%253BV4Bc9Z36RuXRaM%252CKoVxLWlw8jzB5M%252C_%253BIBcQkao7BiWdmM%252C0vB2HdnQ6UuVdM%252C_%253BukotpZHjgZqGlM%252CfW5pybJ62bt-ZM%252C_%253BssvQyZZdMl3HAM%252CIzQU_YUssusBDM%252C_%253Bb260uhQSz-MBJM%252CcXjBk48PQP9-GM%252C_%253BlTZJGiYy6zsQJM%252CfW5pybJ62bt-ZM%252C_%253BND0fvwMktmafwM%252CSEG_Z5cgipHrlM%252C_&usg=AI4_-kQD97Inrahhb_NtwcymAAolT9iTfA&sa=X&ved=2ahUKEwjg3LnTxPT2AhUgxzgGHY5FDN8Q9QF6BAgSEAE&cshid=1648873664529551#imgrc=lkponZhz4qiFDM)--content
-
 #Introduction
 
 * A general store is a  retail store located usually in a small or rural community that carries a wide variety of goods including groceries but is not divided into departments.
 * In this project some function of store like bill the amount of the customer is done with the all taxes and all are implemented.
 
+# Features and Benefits of project
 
+Some Features of this project are it can generate the bill as well as it can save the bill it will show the bills of the each person indidvidal .
+
+#Benefits
+* Easy to generate the bill in very short time. 
+* It is also consist of the Discount features. 
+* It is also add tax to the bill both state and centeral governament tax.
+
+
+# 4W's  and  1'H
+#Who
+* small and large stores can use this system to provied the bill to the every coustomer.
+#What
+* Many store will follow the hand written bill system which some time become very difficult to manage it takes lot of time to write and also it is very dificault to do the calculation some times the calculation may wrong it may lead to loss the repitation if the store.
+
+
+#When
+*The digitalization of the stores started in india.it may help's a lot the every customer in the each and every person which may helps a lot in tax etc.
+
+#Where
+*This project is likely to emerge in all stores and resturents to .
+
+#How:
+
+* This project did not need any internet to run it wors in every time. this project didnot need any large storage are large softwares to run.
