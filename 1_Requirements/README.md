@@ -31,3 +31,15 @@ Some Features of this project are it can generate the bill as well as it can sav
 #How:
 
 * This project did not need any internet to run it wors in every time. this project didnot need any large storage are large softwares to run.
+
+## Detail Requirements
+### High Level Requirements 
+| ID | Description |  
+| ----- | ----- | 
+| HR01 | User need to provide the palyer name | 
+### Low level Requirements
+| ID | Description | HLR ID |
+| ------ | --------- | ------ | 
+| LR01 | User need to select the topic from the display shown | HR01 |
+| LR02 | The selected topic is displayed on the screen | LR01 |
+
