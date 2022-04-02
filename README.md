@@ -11,5 +11,6 @@ c-cpp [![Build CI - Linux](https://github.com/GuptaJuluri22/M1_General_Store_Bil
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/802d219bd78043768bdb95a0ed495f69)](https://www.codacy.com/gh/GuptaJuluri22/M1_General_Store_Bill/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GuptaJuluri22/M1_General_Store_Bill&amp;utm_campaign=Badge_Grade)
 
 [![Analysis](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml)
+[![Build_CI - Linux](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Linux.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Linux.yml)
 
 
