@@ -17,6 +17,12 @@
 
 [![Bulid CI - windows](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Windows.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Windows.yml)
 
+[![Unit Testing - Unity](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/unit-test.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/unit-test.yml)
+
+[![CodeQuality-Valgrind](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Valgrind.yml)
+
+[![Git Inspector](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/gitinsepector.yml)
+
 
 
 
