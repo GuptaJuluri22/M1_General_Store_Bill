@@ -36,10 +36,10 @@ Some Features of this project are it can generate the bill as well as it can sav
 ### High Level Requirements 
 | ID | Description |  
 | ----- | ----- | 
-| HR01 | User need to provide the palyer name | 
+| HR01 | User need to provide the name of customer  | 
 ### Low level Requirements
 | ID | Description | HLR ID |
 | ------ | --------- | ------ | 
-| LR01 | User need to select the topic from the display shown | HR01 |
-| LR02 | The selected topic is displayed on the screen | LR01 |
+| LR01 | Owner need to select the option from the display shown | HR01 |
+| LR02 | The selected option is displayed on the screen | LR01 |
 
