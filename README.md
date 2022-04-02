@@ -12,4 +12,4 @@ c-cpp [![Build CI - Linux](https://github.com/GuptaJuluri22/M1_General_Store_Bil
 
 [![Analysis](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Analysis.yml)
 
-[![Code Quality - Cppcheck](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/c-cpp.yml)
+
