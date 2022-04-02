@@ -17,6 +17,8 @@ c-cpp [![Build CI - Linux](https://github.com/GuptaJuluri22/M1_General_Store_Bil
 
 [![Bulid CI - windows](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Windows.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/Windows.yml)
 
+[![Unit Testing - Unity](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/unit-test.yml/badge.svg)](https://github.com/GuptaJuluri22/M1_General_Store_Bill/actions/workflows/unit-test.yml)
+
 
 
 
