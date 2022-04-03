@@ -1,1 +1,0 @@
-void generateBillFooter(float total);
